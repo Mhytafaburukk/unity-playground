@@ -1,0 +1,12 @@
+{
+    "oyuncuListesi": [
+        {
+            "oyuncuAdi" : "Ahmet",
+            "oyuncuPuani" : 90
+        },
+        {
+            "oyuncuAdi" : "Gul",
+            "oyuncuPuani" : 80
+        }
+    ]
+}

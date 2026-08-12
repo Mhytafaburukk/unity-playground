@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - ground
+  - Player1
+  - Player2
+  - zemin
+  - frictionPoint
+  - Fuze
+  - Zehirli
+  - Elevetor
+  - ZipkinPoint
+  - Zipkin
+  - Spawn1
+  - Spawn2
+  - Spawn3
+  - Helicopter
+  - Fuze2
+  - Fuze3
+  - Zipkin2
+  - Zipkin3
+  - Stone
+  - StoryMode
+  - Fuze1
+  - Zipkin1
+  - Zipkin9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player1
+  - Water
+  - UI
+  - Bullet
+  - Player2
+  - Helicopter
+  - Stone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
